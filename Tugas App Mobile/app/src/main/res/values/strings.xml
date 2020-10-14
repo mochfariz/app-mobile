@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="text_one">text one</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_two">text two</string>
+    <string name="text_three">text three</string>
+    <string name="pemograman">pemograman</string>
+    <string name="sejarah_pemrograman">Thomas Alva Edison</string>
+    <string name="artikel">
+        <b>Thomas Alva Edison </b>
+       Thomas Alva Edison (lahir 11 Februari 1847 – meninggal 18 Oktober 1931 pada umur 84 tahun) adalah penemu dan pengusaha yang mengembangkan banyak peralatan penting. Si Penyihir Menlo Park ini merupakan salah seorang penemu pertama yang menerapkan prinsip produksi massal pada proses penemuan.</string>
+    <string name="head2">Pemrograman</string>
+    <string name="subhead2">Munir Said Thalib</string>
+    <string name="artikel2">
+        <b>Munir Said Thalib</b>
+       Munir Said Thalib (lahir di Malang, Jawa Timur, 8 Desember 1965 – meninggal di Jakarta di dalam pesawat jurusan ke Amsterdam, 7 September 2004 pada umur 38 tahun) adalah seorang aktivis HAM Indonesia. Jabatan terakhirnya adalah Direktur Eksekutif Lembaga Pemantau Hak Asasi Manusia Indonesia Imparsial. Saat menjabat Dewan Kontras, dia berjuang bagi orang-orang hilang yang diculik pada masa itu, seperti membela para aktivis yang menjadi korban penculikan Tim Mawar dari Kopassus.
+</string>
+    <string name="head3">Pemrograman</string>
+    <string name="subhead3">Khalid</string>
+    <string name="isi3"><b>Khalid</b>\n
+Khalid Donnel Robinson (lahir 11 Februari 1998; umur 22 tahun) yang lebih dikenal sebagai Khalid, adalah seorang penyanyi dan penulis lagu asal Amerika Serikat. Dia menandatangani kontrak dengan Grup Musik Right Hand dan RCA Records. Single debutnya, "Location" dirilis pada bulan Juli 2016 dan memuncak pada nomor 16 di chart US Billboard Hot 100 dan kemudian mendapatkan platinum oleh Asosiasi Industri Rekaman Amerika Serikat (RIAA). Album studio debutnya, American Teen dirilis pada 3 Maret 2017.</string>
+</resources>
